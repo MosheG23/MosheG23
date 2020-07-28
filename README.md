@@ -7,7 +7,7 @@
 
 <h3> ⚡ Visit My Website </h3>
 <p align="center">
-<a href="https://www.mgotam.com/"><img  src="https://github.com/MosheG23/MosheG23.github.io/blob/master/assets/img/SiteWall.JPG"></img></a>
+<a href="https://MosheG23.github.io/"><img src="https://github.com/MosheG23/MosheG23.github.io/blob/master/assets/img/SiteWall.JPG"></img></a>
 </p>
 
 
