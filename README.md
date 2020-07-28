@@ -26,7 +26,6 @@
 
 <br/>
 
-[![MosheG23's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MosheG23&show_icons=true)](https://github.com/MosheG23)
 </p>
 <!--
 **MosheG23/MosheG23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,4 +40,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![MosheG23's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MosheG23&show_icons=true)](https://github.com/MosheG23)
 -->
