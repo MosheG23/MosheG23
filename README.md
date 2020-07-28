@@ -3,7 +3,6 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; Studying Computer Science at Holon Institute of Technology. 
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; Learning more about Machine Learning, Data Mining and Web Development.
 
 <h3> ⚡ Visit My Website </h3>
