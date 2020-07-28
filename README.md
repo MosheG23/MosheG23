@@ -5,18 +5,17 @@
 - 🎓 &nbsp; Studying Computer Science at Holon Institute of Technology. 
 - 🌱 &nbsp; Learning more about Machine Learning, Data Mining and Web Development.
 
-<h3> ⚡ Visit My Website </h3>
-<p align="center">
-<a href="https://MosheG23.github.io/" target="_blank"><img src="https://github.com/MosheG23/MosheG23.github.io/blob/master/assets/img/SiteWall.JPG"></img></a>
-</p>
-
-
 <h3>🛠 Tech Knowledge</h3>
 
 - 💻 &nbsp; Python | Java | C++ 
 - 💬 &nbsp; Data Mining | Machine Learning | NLP
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
 - 🔧 &nbsp; Git | Markdown | Selenium
+
+<h3> ⚡ Visit My Website </h3>
+<p align="center">
+<a href="https://MosheG23.github.io/" target="_blank"><img src="https://github.com/MosheG23/MosheG23.github.io/blob/master/assets/img/SiteWall.JPG"></img></a>
+</p>
 
 
 <h3> 🤝🏻 Connect Me </h3>
