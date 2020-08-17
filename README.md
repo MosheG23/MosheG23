@@ -7,7 +7,7 @@
 
 <h3>🛠 Tech Knowledge</h3>
 
-- 💻 &nbsp; Python | Java | C++ 
+- 💻 &nbsp; Python | Java | C++ | JS
 - 💬 &nbsp; Data Mining | Machine Learning | NLP
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
 - 🔧 &nbsp; Git | Markdown | Selenium
