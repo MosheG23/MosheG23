@@ -9,7 +9,7 @@
 
 - 💻 &nbsp; Python | Java | C++ | JS
 - 💬 &nbsp; Data Mining | Machine Learning | NLP
-- 🌐 &nbsp; HTML | CSS | JavaScript | React
+- 🌐 &nbsp; HTML | CSS | JavaScript | React | Next | Node
 - 🔧 &nbsp; Git | Markdown | Selenium
 
 <h3> ⚡ Visit My Website </h3>
