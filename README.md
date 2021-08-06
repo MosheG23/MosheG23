@@ -2,7 +2,6 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Science at Holon Institute of Technology. 
 - 🌱 &nbsp; Learning more about Web Development, Data Mining and Machine Learning.
 
 <h3>🛠 Tech Knowledge</h3>
